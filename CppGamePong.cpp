@@ -17,7 +17,7 @@ int main()
 	Font font;
 	font.loadFromFile("fonts/Cloud.ttf");
 	hud.setFont(font);
-	hud.setCharacterSize(45);
+	hud.setCharacterSize(32);
 	hud.setFillColor(Color::White);
 	hud.setPosition(20, 20);
 
